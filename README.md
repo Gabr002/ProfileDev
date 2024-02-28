@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="./assets/telas.png">
+  <img alt="License" src="./assets/Telas.png">
 </p>
 
 <br>
